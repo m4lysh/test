@@ -1,1 +1,1 @@
-worker: java -jar scraper.jar
+program: java -jar scraper.jar
